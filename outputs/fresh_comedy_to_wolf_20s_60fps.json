@@ -1,0 +1,245 @@
+{
+  "file": "fresh_comedy_to_wolf_20s_60fps.mp4",
+  "duration": 20,
+  "fps": 60,
+  "dimensions": [
+    1080,
+    1200
+  ],
+  "first_ten_seconds": "Eight newly ordered comedy segments with authored durations and playback rates. Full framing retained, no crop or zoom. Original score replaces source soundtrack.",
+  "timeline": [
+    {
+      "part": "comedy",
+      "output_frames": [
+        0,
+        100
+      ],
+      "source_start": 6.2,
+      "speed": 1,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "part": "comedy",
+      "output_frames": [
+        100,
+        175
+      ],
+      "source_start": 1.7,
+      "speed": 0.9,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "part": "comedy",
+      "output_frames": [
+        175,
+        225
+      ],
+      "source_start": 7.8,
+      "speed": 1.25,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "part": "comedy",
+      "output_frames": [
+        225,
+        275
+      ],
+      "source_start": 3.0,
+      "speed": 1,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "part": "comedy",
+      "output_frames": [
+        275,
+        375
+      ],
+      "source_start": 8.4,
+      "speed": 0.8,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "part": "comedy",
+      "output_frames": [
+        375,
+        450
+      ],
+      "source_start": 4.0,
+      "speed": 1.1,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "part": "comedy",
+      "output_frames": [
+        450,
+        525
+      ],
+      "source_start": 6.8,
+      "speed": 1.1,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "part": "comedy",
+      "output_frames": [
+        525,
+        600
+      ],
+      "source_start": 9.2,
+      "speed": 0.65,
+      "geometry": "full source frame; no zoom or crop"
+    },
+    {
+      "output_frames": [
+        600,
+        700
+      ],
+      "source_start": 10.2,
+      "speed": 0.82,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    },
+    {
+      "output_frames": [
+        700,
+        750
+      ],
+      "source_start": 13.08,
+      "speed": 0.9,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    },
+    {
+      "output_frames": [
+        750,
+        775
+      ],
+      "source_start": 14.45,
+      "speed": 1.1,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": true
+    },
+    {
+      "output_frames": [
+        775,
+        825
+      ],
+      "source_start": 15.14,
+      "speed": 0.8,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    },
+    {
+      "output_frames": [
+        825,
+        850
+      ],
+      "source_start": 14.85,
+      "speed": 1,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": true
+    },
+    {
+      "output_frames": [
+        850,
+        900
+      ],
+      "source_start": 15.84,
+      "speed": 0.85,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    },
+    {
+      "output_frames": [
+        900,
+        975
+      ],
+      "source_start": 16.55,
+      "speed": 0.8,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    },
+    {
+      "output_frames": [
+        975,
+        1000
+      ],
+      "source_start": 11.05,
+      "speed": 1.2,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": true
+    },
+    {
+      "output_frames": [
+        1000,
+        1050
+      ],
+      "source_start": 13.17,
+      "speed": 0.9,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    },
+    {
+      "output_frames": [
+        1050,
+        1075
+      ],
+      "source_start": 15.3,
+      "speed": 1.1,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": true
+    },
+    {
+      "output_frames": [
+        1075,
+        1150
+      ],
+      "source_start": 16.7,
+      "speed": 0.7,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    },
+    {
+      "output_frames": [
+        1150,
+        1200
+      ],
+      "source_start": 13.08,
+      "speed": 0.75,
+      "geometry": "unchanged; full source frame",
+      "chromatic_hit": false
+    }
+  ],
+  "second_half_music": {
+    "style": "original phonk-inspired cowbell/808 composition",
+    "bpm": 144,
+    "drop_at": 5,
+    "seed": 1442026,
+    "sample_rate": 48000,
+    "third_party_samples": false,
+    "peak_dbfs_pre_aac": -3.349821745875273,
+    "input_excerpt_seconds": [
+      5,
+      15
+    ],
+    "output_start": 10
+  },
+  "qc": {
+    "source_dimensions_preserved": true,
+    "60fps": true,
+    "1200_frames": true,
+    "20_seconds": true,
+    "av_duration_match": true,
+    "full_decode": true
+  },
+  "audio_measurement": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/user/video-edit/outputs/original-intro-lgnhxkv7/delivery.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Duration: 00:00:20.00, start: 0.000000, bitrate: 7858 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1200 [SAR 1:1 DAR 9:10], 7593 kb/s, 60 fps, 60 tbr, 60k tbn (default)\n      Metadata:\n        handler_name    : ISO Media file produced by Google Inc.\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 250 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n[Parsed_volumedetect_0 @ 0x55e20f811a40] n_samples: 0\nStream mapping:\n  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))\nPress [q] to stop, [?] for help\nOutput #0, null, to 'pipe:':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 pcm_s16le\n[Parsed_volumedetect_0 @ 0x7f9104001a40] n_samples: 1921024\n[Parsed_volumedetect_0 @ 0x7f9104001a40] mean_volume: -18.0 dB\n[Parsed_volumedetect_0 @ 0x7f9104001a40] max_volume: -1.9 dB\n[Parsed_volumedetect_0 @ 0x7f9104001a40] histogram_1db: 1\n[Parsed_volumedetect_0 @ 0x7f9104001a40] histogram_2db: 89\n[Parsed_volumedetect_0 @ 0x7f9104001a40] histogram_3db: 1319\n[Parsed_volumedetect_0 @ 0x7f9104001a40] histogram_4db: 3485\n[out#0/null @ 0x55e20f795400] video:0KiB audio:3752KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nsize=N/A time=00:00:20.01 bitrate=N/A speed= 672x    \n",
+  "sha256": "93a67574b1125c9ff99249aecbe7121e9c8f192b4701f853791c2d93307f1736",
+  "source_rights": "user_attested, not independently verified",
+  "authorship": "Source imagery and baked-in effects retained. Order, rates and timing in both halves, new chromatic hits, grade, ending and music authored by project.",
+  "limitations": [
+    "Native source aspect ratio, not 9:16",
+    "No claim of new detail recovery",
+    "No human listening QA",
+    "Slowdowns may repeat source frames"
+  ],
+  "youtube_upload": "not performed"
+}

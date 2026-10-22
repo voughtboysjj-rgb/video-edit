@@ -68,3 +68,6 @@ python -m shorts_automation.cli qc outputs/short_01.mp4
 
 ## حفظ دقیق محتوا و کادر ده ثانیهٔ اول
 [نسخهٔ ۲۰ثانیه‌ای](outputs/original_intro_10s_custom_finish_20s_60fps.mp4) — ۶۰fps و همان ابعاد اصلی 1080×1200، بدون crop یا zoom؛ ده ثانیهٔ اول با اصلاح بسیار ملایم و صدای اصلی، سپس پایان تازه با فونک. [مقایسهٔ تصویری](outputs/intro_comparison_original_left_edited_right.mp4) — [شرح و محدودیت‌ها](docs/original_intro_fa.md).
+
+## تدوین تازهٔ هر دو نیمه — ۲۰ ثانیه / ۶۰fps
+[فایل جدید](outputs/fresh_comedy_to_wolf_20s_60fps.mp4): هشت قطعهٔ طنز با ترتیب و سرعت تازه در ده ثانیهٔ اول، دوازده قطعهٔ گرگ جدی در ده ثانیهٔ دوم، score ساخته‌شده با کد و تغییر موسیقی در ثانیهٔ ۱۰. کادر کامل 1080×1200، بدون crop/zoom. تصاویر و افکت‌های پخته‌شده از منبع‌اند؛ این ادیت جدید از فایل نهایی است، نه بازسازی سکانس خام. گزارش QC و تایم‌لاین کنار فایل است. اجرای مجدد: `python create_fresh_comedy_remix.py`.
