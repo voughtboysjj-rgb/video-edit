@@ -1,0 +1,286 @@
+{
+  "title": "Comic to Menacing Wolf — 60fps Phonk",
+  "source": "2_5379566238978584676.mp4",
+  "source_sha256": "f4428434165c30f456b1cb7bad746cb0f940fa75edfaa0c93a02acab7ddc3ece",
+  "source_rights": "user_attested",
+  "duration": 14.4,
+  "timeline": [
+    {
+      "shot": 1,
+      "source_start": 6,
+      "source_end": 8.4,
+      "output_start": 0,
+      "output_end": 2.4,
+      "speed": 1,
+      "label": "JUST HAVING FUN",
+      "reason": "Comic opening",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 2,
+      "source_start": 9,
+      "source_end": 9.8,
+      "output_start": 2.4,
+      "output_end": 3.2,
+      "speed": 1,
+      "label": "UNTIL...",
+      "reason": "Comic anticipation before drop",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 3,
+      "source_start": 10.2,
+      "source_end": 11.799999999999999,
+      "output_start": 3.2,
+      "output_end": 4.800000000000001,
+      "speed": 1,
+      "label": "THE SWITCH",
+      "reason": "Serious wolf reveal on beat 8",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 4,
+      "source_start": 13.1,
+      "source_end": 13.98,
+      "output_start": 4.800000000000001,
+      "output_end": 5.6000000000000005,
+      "speed": 1.1,
+      "label": "NO MORE GAMES",
+      "reason": "Hero shot",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 5,
+      "source_start": 14.45,
+      "source_end": 14.85,
+      "output_start": 5.6000000000000005,
+      "output_end": 6.000000000000001,
+      "speed": 1,
+      "label": "",
+      "reason": "Attack",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 6,
+      "source_start": 14.9,
+      "source_end": 15.3,
+      "output_start": 6.000000000000001,
+      "output_end": 6.400000000000001,
+      "speed": 1,
+      "label": "",
+      "reason": "Impact",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 7,
+      "source_start": 15.2,
+      "source_end": 16.0,
+      "output_start": 6.400000000000001,
+      "output_end": 7.200000000000001,
+      "speed": 1,
+      "label": "",
+      "reason": "Close-up",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 8,
+      "source_start": 15.85,
+      "source_end": 16.31,
+      "output_start": 7.200000000000001,
+      "output_end": 7.600000000000001,
+      "speed": 1.15,
+      "label": "",
+      "reason": "Fast action",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 9,
+      "source_start": 16.55,
+      "source_end": 17.75,
+      "output_start": 7.600000000000001,
+      "output_end": 8.8,
+      "speed": 1,
+      "label": "FOCUS",
+      "reason": "Hold the stare",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 10,
+      "source_start": 17.7,
+      "source_end": 18.5,
+      "output_start": 8.8,
+      "output_end": 9.600000000000001,
+      "speed": 1,
+      "label": "",
+      "reason": "Weapon detail",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 11,
+      "source_start": 10.95,
+      "source_end": 11.75,
+      "output_start": 9.600000000000001,
+      "output_end": 10.400000000000002,
+      "speed": 1,
+      "label": "",
+      "reason": "Return motif",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 12,
+      "source_start": 16.6,
+      "source_end": 18.200000000000003,
+      "output_start": 10.400000000000002,
+      "output_end": 12.000000000000002,
+      "speed": 1,
+      "label": "",
+      "reason": "Sustained intensity",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 13,
+      "source_start": 15.45,
+      "source_end": 15.93,
+      "output_start": 12.000000000000002,
+      "output_end": 12.400000000000002,
+      "speed": 1.2,
+      "label": "",
+      "reason": "Final hit",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 14,
+      "source_start": 16.65,
+      "source_end": 18.65,
+      "output_start": 12.400000000000002,
+      "output_end": 14.400000000000002,
+      "speed": 1,
+      "label": "QUIET. NOT WEAK.",
+      "reason": "Resolution",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    }
+  ],
+  "audio": {
+    "seed": 606150,
+    "style": "original synthesized phonk-inspired instrumental",
+    "bpm": 150,
+    "drop_seconds": 3.2,
+    "bpm_source": "composition clock",
+    "peak_dbfs_before_aac": -1.1103465569966273,
+    "rights": "original_project_generated",
+    "instruments": [
+      "metallic FM cowbell",
+      "distorted sub bass 808-style",
+      "synthesized kick",
+      "noise clap",
+      "hi hats"
+    ],
+    "master_gain_before_aac": 0.75
+  },
+  "render": "1080x1920 60fps H264/AAC",
+  "qc": {
+    "size": true,
+    "frames": true,
+    "duration": true,
+    "av_match": true,
+    "full_decode": true
+  },
+  "audio_level_log": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'outputs/phonk_wolf_60fps.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Duration: 00:00:14.42, start: 0.000000, bitrate: 10117 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 9924 kb/s, 60 fps, 60 tbr, 15360 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 191 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n[Parsed_volumedetect_0 @ 0x5616a16b5bc0] n_samples: 0\nStream mapping:\n  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))\nPress [q] to stop, [?] for help\nOutput #0, null, to 'pipe:':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Stream #0:0(und): Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 pcm_s16le\n[Parsed_volumedetect_0 @ 0x7fa524001a40] n_samples: 1271808\n[Parsed_volumedetect_0 @ 0x7fa524001a40] mean_volume: -16.1 dB\n[Parsed_volumedetect_0 @ 0x7fa524001a40] max_volume: -2.7 dB\n[Parsed_volumedetect_0 @ 0x7fa524001a40] histogram_2db: 1\n[Parsed_volumedetect_0 @ 0x7fa524001a40] histogram_3db: 459\n[Parsed_volumedetect_0 @ 0x7fa524001a40] histogram_4db: 6035\n[out#0/null @ 0x5616a164cb00] video:0KiB audio:2484KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nsize=N/A time=00:00:14.41 bitrate=N/A speed= 616x    \n",
+  "sha256": "08f99a4e4f10f2956b2c55688c899e4c4998c74c794950dce9b3efe0e98ffa41",
+  "authorship": {
+    "newly_authored": [
+      "shot order and durations",
+      "per-shot playback rates (not continuous speed ramps)",
+      "animated foreground scaling",
+      "shot-specific grade",
+      "margin typography",
+      "entire synthesized instrumental",
+      "ending fade"
+    ],
+    "reused": [
+      "all character imagery",
+      "all effects baked into source"
+    ],
+    "not_claimed": [
+      "raw film animation authorship",
+      "recovery of original project layers",
+      "removal of original watermark"
+    ]
+  },
+  "not_checked": [
+    "human listening review",
+    "native 1080 detail",
+    "independent source license verification"
+  ],
+  "youtube_upload": "not performed"
+}
