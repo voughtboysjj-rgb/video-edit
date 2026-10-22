@@ -65,3 +65,6 @@ python -m shorts_automation.cli qc outputs/short_01.mp4
 
 ## Director’s Cut — ۲۰ ثانیه / ۶۰fps
 [خروجی جدید](outputs/wolf_phonk_directors_cut_20s_60fps.mp4) — تصویر تمام‌صفحه، ۲۶ قطعه، شروع طنز و Drop ثانیهٔ ۵ با موسیقی تازهٔ فونک ۱۴۴BPM. [تغییرات، شواهد و محدودیت‌ها](docs/directors_cut_20s_fa.md). بازتولید: `python create_phonk_directors_cut.py`.
+
+## حفظ دقیق محتوا و کادر ده ثانیهٔ اول
+[نسخهٔ ۲۰ثانیه‌ای](outputs/original_intro_10s_custom_finish_20s_60fps.mp4) — ۶۰fps و همان ابعاد اصلی 1080×1200، بدون crop یا zoom؛ ده ثانیهٔ اول با اصلاح بسیار ملایم و صدای اصلی، سپس پایان تازه با فونک. [مقایسهٔ تصویری](outputs/intro_comparison_original_left_edited_right.mp4) — [شرح و محدودیت‌ها](docs/original_intro_fa.md).
