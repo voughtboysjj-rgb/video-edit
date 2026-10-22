@@ -1,0 +1,8 @@
+{
+  "exactly_1200_frames": true,
+  "26_authored_segments": true,
+  "all_cut_boundaries_on_144bpm_grid": true,
+  "first_three_shots_comic": true,
+  "action_starts_at_5_seconds": true,
+  "source_intervals_within_file": true
+}

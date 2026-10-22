@@ -1,0 +1,601 @@
+{
+  "title": "Wolf — 20s Directors Cut",
+  "source": "2_5379566238978584676.mp4",
+  "rights": "user_attested",
+  "timeline": [
+    {
+      "shot": 1,
+      "source_start": 5.7,
+      "output_start_frame": 0,
+      "output_frames": 150,
+      "speed": 1,
+      "focal_x": 0.52,
+      "framing": "wide",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "no shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 2,
+      "source_start": 8.2,
+      "output_start_frame": 150,
+      "output_frames": 100,
+      "speed": 1,
+      "focal_x": 0.52,
+      "framing": "wide",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "no shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 3,
+      "source_start": 9.6,
+      "output_start_frame": 250,
+      "output_frames": 50,
+      "speed": 0.75,
+      "focal_x": 0.52,
+      "framing": "wide",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "no shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 4,
+      "source_start": 10.18,
+      "output_start_frame": 300,
+      "output_frames": 50,
+      "speed": 0.8,
+      "focal_x": 0.5,
+      "framing": "hero",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 5,
+      "source_start": 11.0,
+      "output_start_frame": 350,
+      "output_frames": 25,
+      "speed": 1.35,
+      "focal_x": 0.51,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 6,
+      "source_start": 13.08,
+      "output_start_frame": 375,
+      "output_frames": 75,
+      "speed": 0.78,
+      "focal_x": 0.5,
+      "framing": "hero",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 7,
+      "source_start": 14.45,
+      "output_start_frame": 450,
+      "output_frames": 25,
+      "speed": 1.0,
+      "focal_x": 0.49,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 8,
+      "source_start": 14.82,
+      "output_start_frame": 475,
+      "output_frames": 25,
+      "speed": 1.0,
+      "focal_x": 0.51,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 9,
+      "source_start": 15.16,
+      "output_start_frame": 500,
+      "output_frames": 50,
+      "speed": 0.85,
+      "focal_x": 0.51,
+      "framing": "close",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 10,
+      "source_start": 15.82,
+      "output_start_frame": 550,
+      "output_frames": 25,
+      "speed": 1.15,
+      "focal_x": 0.5,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 11,
+      "source_start": 16.55,
+      "output_start_frame": 575,
+      "output_frames": 50,
+      "speed": 0.8,
+      "focal_x": 0.55,
+      "framing": "close",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 12,
+      "source_start": 17.48,
+      "output_start_frame": 625,
+      "output_frames": 25,
+      "speed": 1,
+      "focal_x": 0.54,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 13,
+      "source_start": 10.45,
+      "output_start_frame": 650,
+      "output_frames": 50,
+      "speed": 1.1,
+      "focal_x": 0.5,
+      "framing": "hero",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 14,
+      "source_start": 12.12,
+      "output_start_frame": 700,
+      "output_frames": 25,
+      "speed": 1,
+      "focal_x": 0.49,
+      "framing": "reaction",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 15,
+      "source_start": 13.3,
+      "output_start_frame": 725,
+      "output_frames": 50,
+      "speed": 0.85,
+      "focal_x": 0.5,
+      "framing": "hero",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 16,
+      "source_start": 15.3,
+      "output_start_frame": 775,
+      "output_frames": 25,
+      "speed": 1.2,
+      "focal_x": 0.51,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 17,
+      "source_start": 16.62,
+      "output_start_frame": 800,
+      "output_frames": 50,
+      "speed": 0.65,
+      "focal_x": 0.54,
+      "framing": "close",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 18,
+      "source_start": 14.5,
+      "output_start_frame": 850,
+      "output_frames": 25,
+      "speed": 1.1,
+      "focal_x": 0.5,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 19,
+      "source_start": 15.8,
+      "output_start_frame": 875,
+      "output_frames": 25,
+      "speed": 1.0,
+      "focal_x": 0.5,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 20,
+      "source_start": 11.12,
+      "output_start_frame": 900,
+      "output_frames": 25,
+      "speed": 1.1,
+      "focal_x": 0.5,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 21,
+      "source_start": 13.2,
+      "output_start_frame": 925,
+      "output_frames": 50,
+      "speed": 0.9,
+      "focal_x": 0.5,
+      "framing": "hero",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 22,
+      "source_start": 16.45,
+      "output_start_frame": 975,
+      "output_frames": 50,
+      "speed": 0.8,
+      "focal_x": 0.54,
+      "framing": "close",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 23,
+      "source_start": 17.2,
+      "output_start_frame": 1025,
+      "output_frames": 50,
+      "speed": 0.75,
+      "focal_x": 0.54,
+      "framing": "close",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 24,
+      "source_start": 15.3,
+      "output_start_frame": 1075,
+      "output_frames": 25,
+      "speed": 1.05,
+      "focal_x": 0.5,
+      "framing": "impact",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "brief chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 25,
+      "source_start": 13.08,
+      "output_start_frame": 1100,
+      "output_frames": 50,
+      "speed": 0.8,
+      "focal_x": 0.5,
+      "framing": "hero",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    },
+    {
+      "shot": 26,
+      "source_start": 17.25,
+      "output_start_frame": 1150,
+      "output_frames": 50,
+      "speed": 0.65,
+      "focal_x": 0.54,
+      "framing": "final",
+      "new_effects": [
+        "full-bleed focal crop",
+        "shot-specific grade",
+        "short decaying shake",
+        "no chromatic offset"
+      ],
+      "source_effects": "retained and not claimed as newly authored"
+    }
+  ],
+  "music": {
+    "style": "original phonk-inspired cowbell/808 composition",
+    "bpm": 144,
+    "drop_at": 5,
+    "seed": 1442026,
+    "sample_rate": 48000,
+    "third_party_samples": false,
+    "peak_dbfs_pre_aac": -3.349821745875273
+  },
+  "render": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 42,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "color_transfer": "bt709",
+        "color_primaries": "bt709",
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "time_base": "1/60000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 1200000,
+        "duration": "20.000000",
+        "bit_rate": "11104558",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1200",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 960000,
+        "duration": "20.000000",
+        "bit_rate": "258915",
+        "nb_frames": "939",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/home/user/video-edit/outputs/directors_work/final.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "20.000000",
+      "size": "28442074",
+      "bit_rate": "11376829",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf61.7.103"
+      }
+    }
+  },
+  "qc": {
+    "resolution": true,
+    "fps": true,
+    "frames": true,
+    "duration": true,
+    "av_match": true,
+    "decode": true
+  },
+  "audio_measurement": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/user/video-edit/outputs/directors_work/final.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Duration: 00:00:20.00, start: 0.000000, bitrate: 11376 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 11104 kb/s, 60 fps, 60 tbr, 60k tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 258 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n[Parsed_volumedetect_0 @ 0x555fba95e280] n_samples: 0\nStream mapping:\n  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))\nPress [q] to stop, [?] for help\nOutput #0, null, to 'pipe:':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 pcm_s16le\n[Parsed_volumedetect_0 @ 0x7f4168001a40] n_samples: 1921024\n[Parsed_volumedetect_0 @ 0x7f4168001a40] mean_volume: -17.5 dB\n[Parsed_volumedetect_0 @ 0x7f4168001a40] max_volume: -3.0 dB\n[Parsed_volumedetect_0 @ 0x7f4168001a40] histogram_3db: 63\n[Parsed_volumedetect_0 @ 0x7f4168001a40] histogram_4db: 1102\n[Parsed_volumedetect_0 @ 0x7f4168001a40] histogram_5db: 4946\n[out#0/null @ 0x555fba854940] video:0KiB audio:3752KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nsize=N/A time=00:00:20.01 bitrate=N/A speed= 691x    \n",
+  "sha256": "bbfb4a8fa92f4daa14ee826f0ee559ad19ab47822e33d8d515246634cee2e232",
+  "limitations": [
+    "full-bleed crop discards peripheral picture; source attribution retained separately in README",
+    "slowdown uses repeated frames, no optical-flow interpolation",
+    "baked-in effects remain from original",
+    "no professional human listening session",
+    "subjective superiority is not established"
+  ],
+  "publication": "not uploaded to YouTube",
+  "loudness_input_measurement": {
+    "input_i": "-17.23",
+    "input_tp": "-2.71",
+    "input_lra": "12.40",
+    "input_thresh": "-28.12"
+  },
+  "loudness_note": "Measurement only; output was not loudness-normalized in this analysis pass.",
+  "development_failures": "Two preliminary renders were rejected by QC for timing/fps; delivery is the corrected CFR render."
+}
