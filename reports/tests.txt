@@ -1,0 +1,15 @@
+test_bad_duration_block (test_core.CoreTests.test_bad_duration_block) ... ok
+test_frames_deterministic (test_core.CoreTests.test_frames_deterministic) ... ok
+test_gap_block (test_core.CoreTests.test_gap_block) ... ok
+test_hash_change (test_core.CoreTests.test_hash_change) ... ok
+test_real_audio_probe (test_core.CoreTests.test_real_audio_probe) ... ok
+test_resolution_block (test_core.CoreTests.test_resolution_block) ... ok
+test_rights_block (test_core.CoreTests.test_rights_block) ... ok
+test_valid_plan (test_core.CoreTests.test_valid_plan) ... ok
+test_variant_block (test_core.CoreTests.test_variant_block) ... ok
+test_variants_differ (test_core.CoreTests.test_variants_differ) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 3.187s
+
+OK

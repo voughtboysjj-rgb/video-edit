@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "seed": 1730,
+  "variant": 1,
+  "rights": "original_project_generated",
+  "width": 1080,
+  "height": 1920,
+  "duration": 16,
+  "fps": 24,
+  "profile": "original_neon_reveal",
+  "description": "Original abstract vector wolf reveal; not film footage or a replica of reference.",
+  "shots": [
+    {
+      "start": 0,
+      "end": 4,
+      "mode": "calm",
+      "reason": "Quiet setup creates contrast"
+    },
+    {
+      "start": 4,
+      "end": 6,
+      "mode": "build",
+      "reason": "Anticipation before reveal"
+    },
+    {
+      "start": 6,
+      "end": 14,
+      "mode": "reveal",
+      "reason": "Geometric subject with rhythmic punch-ins"
+    },
+    {
+      "start": 14,
+      "end": 16,
+      "mode": "outro",
+      "reason": "Resolve and fade"
+    }
+  ]
+}

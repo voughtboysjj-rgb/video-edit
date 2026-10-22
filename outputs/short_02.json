@@ -1,0 +1,224 @@
+{
+  "job": "original-2-28c7c72b685f",
+  "state": "awaiting_review",
+  "plan": {
+    "version": 1,
+    "seed": 1731,
+    "variant": 2,
+    "rights": "original_project_generated",
+    "width": 1080,
+    "height": 1920,
+    "duration": 16,
+    "fps": 24,
+    "profile": "original_neon_reveal",
+    "description": "Original abstract vector wolf reveal; not film footage or a replica of reference.",
+    "shots": [
+      {
+        "start": 0,
+        "end": 4,
+        "mode": "calm",
+        "reason": "Quiet setup creates contrast"
+      },
+      {
+        "start": 4,
+        "end": 6,
+        "mode": "build",
+        "reason": "Anticipation before reveal"
+      },
+      {
+        "start": 6,
+        "end": 14,
+        "mode": "reveal",
+        "reason": "Geometric subject with rhythmic punch-ins"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "mode": "outro",
+        "reason": "Resolve and fade"
+      }
+    ]
+  },
+  "file": "short_02.mp4",
+  "sha256": "c450942fc4dd2c54ed879f972d57dbf51ca88e8e0440b8b0decfa7faed529f54",
+  "metadata": {
+    "title": "Focus — Original Neon Wolf",
+    "description": "Original geometric animation and procedural synthesized instrumental. Not film footage.",
+    "#tags": [
+      "animation",
+      "motiongraphics",
+      "shorts"
+    ]
+  },
+  "metadata_sha256": "141ca18bbba377f290735b61cbdaa11bc0405ab0011847a5dacebee116d99d05",
+  "qc": {
+    "passed": true,
+    "checks": {
+      "dimensions": true,
+      "video_codec": true,
+      "audio_codec": true,
+      "duration": true,
+      "av_duration_match": true,
+      "full_decode": true
+    },
+    "probe": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+          "profile": "High",
+          "codec_type": "video",
+          "codec_tag_string": "avc1",
+          "codec_tag": "0x31637661",
+          "width": 1080,
+          "height": 1920,
+          "coded_width": 1080,
+          "coded_height": 1920,
+          "closed_captions": 0,
+          "film_grain": 0,
+          "has_b_frames": 2,
+          "pix_fmt": "yuv420p",
+          "level": 40,
+          "chroma_location": "left",
+          "field_order": "progressive",
+          "refs": 1,
+          "is_avc": "true",
+          "nal_length_size": "4",
+          "id": "0x1",
+          "r_frame_rate": "24/1",
+          "avg_frame_rate": "24/1",
+          "time_base": "1/12288",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 196608,
+          "duration": "16.000000",
+          "bit_rate": "734911",
+          "bits_per_raw_sample": "8",
+          "nb_frames": "384",
+          "extradata_size": 47,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "VideoHandler",
+            "vendor_id": "[0][0][0][0]",
+            "encoder": "Lavc61.19.101 libx264"
+          }
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "sample_fmt": "fltp",
+          "sample_rate": "44100",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 0,
+          "id": "0x2",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/44100",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 705600,
+          "duration": "16.000000",
+          "bit_rate": "194329",
+          "nb_frames": "691",
+          "extradata_size": 5,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "language": "und",
+            "handler_name": "SoundHandler",
+            "vendor_id": "[0][0][0][0]"
+          }
+        }
+      ],
+      "format": {
+        "filename": "/home/user/video-edit/outputs/shorts-aptd1xw1/render.mp4",
+        "nb_streams": 2,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "16.000000",
+        "size": "1872726",
+        "bit_rate": "936363",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso2avc1mp41",
+          "encoder": "Lavf61.7.103"
+        }
+      }
+    },
+    "audio_measurement_log": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/user/video-edit/outputs/shorts-aptd1xw1/render.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Duration: 00:00:16.00, start: 0.000000, bitrate: 936 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 734 kb/s, 24 fps, 24 tbr, 12288 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 194 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n[Parsed_volumedetect_0 @ 0x559659759800] n_samples: 0\nStream mapping:\n  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))\nPress [q] to stop, [?] for help\nOutput #0, null, to 'pipe:':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Stream #0:0(und): Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 pcm_s16le\n[Parsed_volumedetect_0 @ 0x7f5094001a40] n_samples: 1413120\n[Parsed_volumedetect_0 @ 0x7f5094001a40] mean_volume: -20.7 dB\n[Parsed_volumedetect_0 @ 0x7f5094001a40] max_volume: -5.4 dB\n[Parsed_volumedetect_0 @ 0x7f5094001a40] histogram_5db: 100\n[Parsed_volumedetect_0 @ 0x7f5094001a40] histogram_6db: 480\n[Parsed_volumedetect_0 @ 0x7f5094001a40] histogram_7db: 902\n[out#0/null @ 0x55965964dac0] video:0KiB audio:2760KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nsize=N/A time=00:00:16.02 bitrate=N/A speed= 603x    \n",
+    "not_checked": [
+      "semantic crop quality",
+      "subtitle readability",
+      "integrated LUFS",
+      "human audiovisual review",
+      "platform acceptance"
+    ]
+  },
+  "environment": {
+    "python": "3.13.16 (main, Oct  6 2026, 04:38:44) [GCC 14.2.0]",
+    "ffmpeg": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers",
+    "ffprobe": "ffprobe version 7.1.5-0+deb13u1 Copyright (c) 2007-2026 the FFmpeg developers",
+    "free_bytes": 21064880128
+  },
+  "youtube": "not_configured",
+  "rights": "original_project_generated",
+  "limitations": [
+    "Not a replica of reference footage",
+    "No speech or transcription",
+    "No automatic publishing",
+    "No beat detector; generated score uses a known clock"
+  ]
+}

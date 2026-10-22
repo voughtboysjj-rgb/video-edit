@@ -1,2 +1,48 @@
-# video-edit
-ادیت ویدیو
+# Video Edit — نسخهٔ حداقلی اجرایی
+
+**وضعیت: ناقص، ولی مسیر تولید محتوای اورجینال تا MP4 و QC واقعاً اجرا شده است.**
+این نسخه سامانهٔ کامل تحلیل و تدوین فیلم یا انتشار روزانه نیست. دو خروجی، موشن‌گرافیک هندسی اورجینال با موسیقی سینتزشده هستند؛ بازسازی کیفیت یا تصاویر فیلم مرجع نیستند.
+
+## خروجی واقعی
+- [شورت ۱ — Quiet Power](outputs/short_01.mp4)
+- [شورت ۲ — Focus](outputs/short_02.mp4)
+- گزارش مستقل هر فایل در `outputs/short_01.json` و `outputs/short_02.json`.
+- تحلیل فایل مرجع: `reports/latest_reference_analysis.json`.
+- نتیجهٔ تست‌های محلی: `reports/tests.txt`.
+
+## نصب روی Linux
+Python 3.11 یا بالاتر؛ اجرای محلی این تحویل روی Python 3.13.16 بوده است. سازگاری 3.11 در CI تعریف شده اما نتیجهٔ CI باید جداگانه بررسی شود.
+
+```bash
+sudo apt-get update
+sudo apt-get install -y ffmpeg fonts-dejavu-core
+python -m venv .venv
+. .venv/bin/activate
+python -m pip install -r requirements.lock
+export PYTHONPATH=src
+python -m shorts_automation.cli environment
+python -m unittest discover -s tests -v
+python -m shorts_automation.cli plan --variant 1
+python -m shorts_automation.cli produce --variant 1
+python -m shorts_automation.cli produce --variant 2
+python -m shorts_automation.cli qc outputs/short_01.mp4
+```
+
+## قابلیت‌های موجود
+- دو واریانت ثابت از یک طرح اورجینال: رنگ، ضرب، حرکت و متن متفاوت.
+- برنامهٔ زمانی اعتبارسنجی‌شده و مسدودسازی طرح با حقوق نامعتبر.
+- تصویر برداری‌شده از اشکال هندسی در 540×960 و upscale به 1080×1920؛ نه جزئیات بومی 1080.
+- موسیقی بدون سمپل خارجی؛ زمان‌بندی از کلاک معلوم، نه تشخیص ضرب از آهنگ ناشناخته.
+- رندر H.264/AAC، مدیریت فایل موقت و انتقال اتمیک پس از QC.
+- QC ابعاد، کدک، مدت، اختلاف مدت صوت/تصویر و Decode کامل.
+- SHA-256 فایل و متادیتا، رکورد SQLite و جلوگیری از رندر مجدد همان خروجی سالم.
+- اجرای تست و رندر دستی در GitHub Actions؛ اجرای زندهٔ CI در گزارش جداگانه ذکر می‌شود.
+
+## موجود نیست
+تدوین خودکار فیلم‌های دلخواه، استخراج هوشمند لحظه‌ها، speed ramp تحلیلی، ASR، PySceneDetect، librosa، OAuth، آپلود یوتیوب، انتشار، تأیید هویت، Analytics، یادگیری و بانک منابع روزانه هنوز پیاده نشده‌اند. دستورات خیالی برای آن‌ها ارائه نمی‌شود.
+دو واریانت ثابت را نباید هر روز به‌عنوان محتوای جدید بازنشر کرد؛ به همین دلیل Cron تولید تکراری فعال نشده است.
+
+## حقوق
+فایل `2_5379566238978584676.mp4` فقط مرجع بررسی است و مجوز تصاویر/موسیقی آن تأیید نشده. فایل کم‌کیفیت از HEAD حذف شده ولی در تاریخچه باقی است. در دو خروجی جدید از تصویر یا صدای مرجع استفاده نشده است.
+
+جزئیات: [گزارش تحویل](docs/delivery_fa.md)، [معماری](docs/architecture.md)، [تحقیق محدود فنی](docs/github_research.md).

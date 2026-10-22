@@ -1,0 +1,9 @@
+{
+  "freellm": {
+    "models_url": "https://freellm.sh/#models",
+    "enabled": false,
+    "status": "not_configured",
+    "api_endpoint": null,
+    "reason": "Index page reviewed; no unified API integration verified."
+  }
+}
