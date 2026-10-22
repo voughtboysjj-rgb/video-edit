@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 name = "shorts-automation"
 version = "0.1.0"
 requires-python = ">=3.11"
-dependencies = ["Pillow==12.3.0"]
+dependencies = ["Pillow==12.3.0", "numpy==2.3.5"]
 [project.scripts]
 shorts = "shorts_automation.cli:main"
 [tool.setuptools.packages.find]
