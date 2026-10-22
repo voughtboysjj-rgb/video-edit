@@ -51,3 +51,9 @@ python -m shorts_automation.cli qc outputs/short_01.mp4
 - [نسخهٔ کامل](outputs/reedit_01.mp4): ترتیب اصلی، رنگ ملایم و قاب عمودی.
 - [نسخهٔ کوتاه‌تر](outputs/reedit_02.mp4): ۲٫۶ ثانیه معرفی و سپس بخش ۱۰ تا پایان.
 اجرای مجدد: `python render_reedits.py`؛ گزارش QC کنار هر خروجی است. حقوق بر مبنای اظهار کاربر ثبت شده، نه بررسی مستقل. نوشته‌ها حذف نشده‌اند. این‌ها بازتدوین یک ادیت موجود هستند، نه تولید دو فیلم مستقل.
+
+## مرحلهٔ تحلیل مهندسی معکوس
+[گزارش و محدودیت‌ها](docs/reverse_engineering_fa.md) — [ویدیوی برچسب‌دار تحلیل](outputs/reconstruction_breakdown.mp4) — [بازچینی تایم‌لاین](outputs/reconstructed_timeline.mp4). این مرحله بازسازی مستقل افکت‌ها نیست. اجرای واقعی: `python reverse_engineer.py`.
+
+## تدوین تازه — The Switch
+[تماشای خروجی جدید](outputs/fresh_edit_the_switch.mp4) — ۱۶ قطعه با ترتیب تازه، تغییر سرعت شات‌ها، موسیقی جدید ساخته‌شده با کد، حرکت مقیاس و تایپوگرافی مستقل. [جزئیات و مرز تألیف](docs/fresh_edit_fa.md). اجرا: `python create_fresh_edit.py`.

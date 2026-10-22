@@ -1,0 +1,17 @@
+{
+  "checks": {
+    "size": true,
+    "frames": true,
+    "duration": true,
+    "av_match": true,
+    "full_decode": true,
+    "new_shot_order": true,
+    "sixteen_shots": true,
+    "contiguous_timeline": true,
+    "new_speed_changes": true,
+    "soundtrack_differs_from_reference": true
+  },
+  "passed": 10,
+  "failed": 0,
+  "note": "Actual output checks, not full unit-test suite or subjective quality assessment"
+}

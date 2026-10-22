@@ -1,0 +1,308 @@
+{
+  "title": "The Switch — newly authored montage",
+  "source": "2_5379566238978584676.mp4",
+  "source_sha256": "f4428434165c30f456b1cb7bad746cb0f940fa75edfaa0c93a02acab7ddc3ece",
+  "source_rights": "user_attested",
+  "duration": 14,
+  "timeline": [
+    {
+      "shot": 1,
+      "source_start": 13.1,
+      "source_end": 13.6,
+      "output_start": 0,
+      "output_end": 0.5,
+      "speed": 1,
+      "label": "THE SWITCH",
+      "reason": "Cold open on serious character",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 2,
+      "source_start": 6,
+      "source_end": 8,
+      "output_start": 0.5,
+      "output_end": 2.5,
+      "speed": 1,
+      "label": "BEFORE",
+      "reason": "Contrast: return to comic performance",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 3,
+      "source_start": 9.5,
+      "source_end": 10.15,
+      "output_start": 2.5,
+      "output_end": 3.0,
+      "speed": 1.3,
+      "label": "WAIT...",
+      "reason": "Accelerate anticipation",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 4,
+      "source_start": 10.2,
+      "source_end": 11.549999999999999,
+      "output_start": 3.0,
+      "output_end": 4.5,
+      "speed": 0.9,
+      "label": "AFTER",
+      "reason": "Main reveal on synthesized beat",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 5,
+      "source_start": 12.15,
+      "source_end": 12.65,
+      "output_start": 4.5,
+      "output_end": 5.0,
+      "speed": 1,
+      "label": "",
+      "reason": "Reaction insert",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 6,
+      "source_start": 13.1,
+      "source_end": 14.25,
+      "output_start": 5.0,
+      "output_end": 6.0,
+      "speed": 1.15,
+      "label": "NO MORE GAMES",
+      "reason": "Hero beat",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 7,
+      "source_start": 14.45,
+      "source_end": 15.0,
+      "output_start": 6.0,
+      "output_end": 6.5,
+      "speed": 1.1,
+      "label": "",
+      "reason": "Short attack",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 8,
+      "source_start": 14.9,
+      "source_end": 15.3,
+      "output_start": 6.5,
+      "output_end": 7.0,
+      "speed": 0.8,
+      "label": "",
+      "reason": "Hold intensity",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 9,
+      "source_start": 15.2,
+      "source_end": 15.7,
+      "output_start": 7.0,
+      "output_end": 7.5,
+      "speed": 1,
+      "label": "",
+      "reason": "Close-up",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 10,
+      "source_start": 15.85,
+      "source_end": 16.475,
+      "output_start": 7.5,
+      "output_end": 8.0,
+      "speed": 1.25,
+      "label": "",
+      "reason": "Fast action",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 11,
+      "source_start": 16.55,
+      "source_end": 17.35,
+      "output_start": 8.0,
+      "output_end": 9.0,
+      "speed": 0.8,
+      "label": "FOCUS",
+      "reason": "Slow emphasis",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 12,
+      "source_start": 17.7,
+      "source_end": 18.2,
+      "output_start": 9.0,
+      "output_end": 9.5,
+      "speed": 1,
+      "label": "",
+      "reason": "Detail cut",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 13,
+      "source_start": 10.95,
+      "source_end": 11.549999999999999,
+      "output_start": 9.5,
+      "output_end": 10.0,
+      "speed": 1.2,
+      "label": "",
+      "reason": "Return motif",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 14,
+      "source_start": 16.6,
+      "source_end": 17.650000000000002,
+      "output_start": 10.0,
+      "output_end": 11.5,
+      "speed": 0.7,
+      "label": "",
+      "reason": "Slow close-up",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 15,
+      "source_start": 15.45,
+      "source_end": 16.15,
+      "output_start": 11.5,
+      "output_end": 12.0,
+      "speed": 1.4,
+      "label": "",
+      "reason": "Final hit",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    },
+    {
+      "shot": 16,
+      "source_start": 16.65,
+      "source_end": 18.25,
+      "output_start": 12.0,
+      "output_end": 14.0,
+      "speed": 0.8,
+      "label": "QUIET. NOT WEAK.",
+      "reason": "Resolve and fade",
+      "new_effects": [
+        "independent animated scale of full foreground",
+        "shot-specific color grade",
+        "new beat-grid cut placement"
+      ],
+      "source_effects": "retained, not authored by this project"
+    }
+  ],
+  "audio": {
+    "seed": 1022,
+    "bpm": 120,
+    "bpm_source": "composition clock, not inferred from reference",
+    "peak_dbfs_before_aac": -4.657623936101856,
+    "rights": "original_project_generated"
+  },
+  "render": "1080x1920 30fps H264/AAC",
+  "qc": {
+    "size": true,
+    "frames": true,
+    "duration": true,
+    "av_match": true,
+    "full_decode": true
+  },
+  "audio_level_log": "Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/user/video-edit/outputs/fresh-edit-c64pa1wk/final.mp4':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Duration: 00:00:14.00, start: 0.000000, bitrate: 7623 kb/s\n  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], 7421 kb/s, 30 fps, 30 tbr, 15360 tbn (default)\n      Metadata:\n        handler_name    : VideoHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 libx264\n  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n[Parsed_volumedetect_0 @ 0x563e5b99bf00] n_samples: 0\nStream mapping:\n  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))\nPress [q] to stop, [?] for help\nOutput #0, null, to 'pipe:':\n  Metadata:\n    major_brand     : isom\n    minor_version   : 512\n    compatible_brands: isomiso2avc1mp41\n    encoder         : Lavf61.7.103\n  Stream #0:0(und): Audio: pcm_s16le, 44100 Hz, stereo, s16, 1411 kb/s (default)\n      Metadata:\n        handler_name    : SoundHandler\n        vendor_id       : [0][0][0][0]\n        encoder         : Lavc61.19.101 pcm_s16le\n[Parsed_volumedetect_0 @ 0x7fb200001a40] n_samples: 1234944\n[Parsed_volumedetect_0 @ 0x7fb200001a40] mean_volume: -22.0 dB\n[Parsed_volumedetect_0 @ 0x7fb200001a40] max_volume: -4.5 dB\n[Parsed_volumedetect_0 @ 0x7fb200001a40] histogram_4db: 4\n[Parsed_volumedetect_0 @ 0x7fb200001a40] histogram_5db: 260\n[Parsed_volumedetect_0 @ 0x7fb200001a40] histogram_6db: 1455\n[out#0/null @ 0x563e5b8868c0] video:0KiB audio:2412KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nsize=N/A time=00:00:14.00 bitrate=N/A speed= 781x    \n",
+  "sha256": "a7ab1350502b6942290ff7976873b43c3672924847bae547db6af0d4a83dd27f",
+  "authorship": {
+    "newly_authored": [
+      "shot order and durations",
+      "per-shot playback rates (not continuous speed ramps)",
+      "animated foreground scaling",
+      "shot-specific grade",
+      "margin typography",
+      "entire synthesized instrumental",
+      "ending fade"
+    ],
+    "reused": [
+      "all character imagery",
+      "all effects baked into source"
+    ],
+    "not_claimed": [
+      "raw film animation authorship",
+      "recovery of original project layers",
+      "removal of original watermark"
+    ]
+  },
+  "not_checked": [
+    "human listening review",
+    "native 1080 detail",
+    "independent source license verification"
+  ],
+  "youtube_upload": "not performed"
+}
