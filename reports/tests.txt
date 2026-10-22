@@ -8,8 +8,14 @@ test_rights_block (test_core.CoreTests.test_rights_block) ... ok
 test_valid_plan (test_core.CoreTests.test_valid_plan) ... ok
 test_variant_block (test_core.CoreTests.test_variant_block) ... ok
 test_variants_differ (test_core.CoreTests.test_variants_differ) ... ok
+test_complete_coverage (test_reconstruction.ReconstructionTests.test_complete_coverage) ... ok
+test_decode (test_reconstruction.ReconstructionTests.test_decode) ... ok
+test_frame_count (test_reconstruction.ReconstructionTests.test_frame_count) ... ok
+test_no_fake_bpm (test_reconstruction.ReconstructionTests.test_no_fake_bpm) ... ok
+test_no_false_recovery_claim (test_reconstruction.ReconstructionTests.test_no_false_recovery_claim) ... ok
+test_real_artifacts (test_reconstruction.ReconstructionTests.test_real_artifacts) ... ok
 
 ----------------------------------------------------------------------
-Ran 10 tests in 3.187s
+Ran 16 tests in 1.422s
 
 OK
